@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="pruebasdeparcial" />
+    <orderEntry type="module" module-name="notapsint2" />
+    <orderEntry type="module" module-name="untitled" />
+    <orderEntry type="module" module-name="ejercicio_4" />
+    <orderEntry type="module" module-name="ejercicio_2" />
+    <orderEntry type="module" module-name="trabajo" />
+  </component>
+</module>

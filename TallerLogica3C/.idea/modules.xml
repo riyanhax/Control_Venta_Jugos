@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TallerLogica3C.iml" filepath="$PROJECT_DIR$/.idea/TallerLogica3C.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ejercicio_2/.idea/ejercicio_2.iml" filepath="$PROJECT_DIR$/../ejercicio_2/.idea/ejercicio_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ejercicio_4/.idea/ejercicio_4.iml" filepath="$PROJECT_DIR$/../ejercicio_4/.idea/ejercicio_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../notapsint2/.idea/notapsint2.iml" filepath="$PROJECT_DIR$/../notapsint2/.idea/notapsint2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pruebasdeparcial/.idea/pruebasdeparcial.iml" filepath="$PROJECT_DIR$/../pruebasdeparcial/.idea/pruebasdeparcial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trabajo/.idea/trabajo.iml" filepath="$PROJECT_DIR$/../trabajo/.idea/trabajo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../notapsint1/.idea/untitled.iml" filepath="$PROJECT_DIR$/../notapsint1/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>
